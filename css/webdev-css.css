@@ -1,0 +1,1813 @@
+@font-face {
+    font-family: mathlete_bulky;
+    src: url(mathlete/Mathlete-Bulky.otf);
+}
+
+@font-face {
+    font-family: mathlete_skinny;
+    src: url(mathlete/Mathlete-Skinny.otf);
+}
+
+@font-face {
+    font-family: newspaper_type;
+    src: url(OldNewspaperTypes.ttf);
+}
+
+
+
+body {
+	width:100%;
+	height:100%;
+	margin:0;
+  	border: 0;
+	padding:0;
+	background: #202020;
+	
+}
+
+#container {
+	background: #202020;
+	max-width:5000px;
+	width:100%;
+	height:100%;
+	position:relative;
+}
+
+#shadower{
+	-webkit-box-shadow: 0px 0px 3px 3px #000;
+	box-shadow: 0px 0px 3px 3px #000;
+	max-width:1600px;
+	height:100%;
+	margin:auto;
+	background-position:center; 
+	min-width:1000px;
+}
+
+/* Yellow Logo over image */
+#first_section {
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/first_panel_1/trees_background_card_2014.jpg) 50% 0 no-repeat ; 
+	background-position:center; 
+	height: 800px;  
+	margin: 0 auto; 
+    width: 100%; 
+	max-width:1600px;
+	min-width:1000px;
+}
+
+/* Register Section with 3 polaroids hanging*/
+#reg_polaroids{
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/register_page/background_w_trim_2014.jpg) 50% 0 no-repeat ; 
+	background-position:center; 
+	height:961px;  
+	margin: 0 auto; 
+    width: 100%; 
+	max-width:1600px;
+	min-width:1000px;
+	
+}
+
+/* Leather Background stitched thing */
+#section_2 {
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/leather_trees/trees_leather_darker_w_patches_2014.jpg) 50% 0 no-repeat ; 
+	background-position:center; 
+	height: 1600px;  
+	margin: 0 auto; 
+    width: 100%; 
+ 	max-width:1600px;
+	min-width:1000px;
+}
+
+
+#section_3 {
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/bulletin/bulletin_board_on_wall_2014_1.jpg) 50% 0 no-repeat ; 
+	background-position:center; 
+	height: 1000px;  
+	margin: 0 auto; 
+    width: 100%; 
+	max-width:1600px;
+	min-width:1000px;
+	position:relative;
+}
+
+#press {
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/press/paper_background_2014.jpg) 50% 0 no-repeat ; 
+	background-position:center; 
+	height: 1350px;  
+	margin: 0 auto; 
+    width: 100%; 
+	max-width:1600px;
+	min-width:1000px;
+	position:relative;	
+}
+
+	#press_headers {
+		text-align:center;
+		margin:auto;
+		position:relative;
+		top:95px;
+	}
+	
+	#press_headers h3 {
+		font-family:'arvo';
+		font-size:20px;	
+		color:#424141;
+	}
+	
+	#press_headers h2 {
+		font-size:40px;
+		font-family:'newspaper_type';
+		letter-spacing:-1px;
+		color:#2B2525;
+	}
+
+	#clippings {
+		margin:auto;
+		text-align:center;
+		width:1000px;
+		height:1000px;
+		position:relative;
+		top:110px;
+		left:0px;
+	}
+	
+	#nyt {
+		position: relative;
+		top: 12px;
+		left: -74px;	
+	}
+	
+	#inc {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+
+	#travel {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+	#new_yorker {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+	#wired {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+	#time {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+	#fox {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+	#npr {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+	#mashable {
+		position:relative;
+		top:-4px ;
+		left:0px ;
+	}
+	
+	#mailonline {
+		position:relative;
+		top:-11px ;
+		left:0 ;
+	}
+	
+	#cnn {
+		position:relative;
+		top:0 ;
+		left:0 ;
+	}
+	
+#section_4 {
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/desk/desk_disclaimer_2014_w_big_paper_2014.jpg) 50% 0 no-repeat ; 
+	background-position:center; 
+	height: 1500px;  
+	margin: 0 auto; 
+    width: 100%; 
+	max-width:1600px;
+	min-width:1000px;
+	position:relative;
+}
+
+
+#partners {
+	background-color: rgb(192, 191, 179);
+	height:505px;
+	width: 100%; 
+	max-width:1600px;
+	min-width:1000px;
+	margin:auto;
+	position:relative;
+	text-align:center;
+}
+
+#partners_text{
+	text-align:center;
+	background-color: rgba(255, 255, 255, .8);
+	width:1000px;
+	-webkit-box-shadow: 0px 1px 5px 1px ;
+	box-shadow: 0px 1px 30px 2px ;
+	margin:auto;
+	position:relative;
+	top:35px;
+	padding-top:10px;
+	padding-bottom:10px;
+	height:300px;
+
+}
+
+#partners_text h2 {
+	font-size:40px;
+	font-family:'Bevan';
+	
+}
+
+#partners_text p {
+	font-size:18px;
+	font-family:'roboto';
+	
+}
+
+#partners_text hr {
+	width:600px;
+	color:#fff;
+	margin:auto;
+	margin-top:20px;
+}
+
+#yoko {
+	position:relative;
+	top:0px;
+	left:0px;	
+}
+
+#navarro_logo_partner {
+	position:relative;
+	top:-25px;
+	left:-74px;	
+}
+
+/* Sections with info on top of background */
+
+/* Page 1- trees with circle and gear */
+
+	#text_on_circle{
+		position:relative;
+		top:50px;
+	}
+	
+	#on_tape {
+		position: relative;
+		left: -201px;
+		top:7px;
+	}
+
+	#dd_cn {
+		
+		color:#4d2b10;
+		transform: rotate(-3deg);
+		-ms-transform: rotate(-3deg); /* IE 9 */
+		-webkit-transform: rotate(-3deg); /* Safari and Chrome */
+		
+	}
+
+	#date {
+		color:#4d2b10;
+		font-family:'mathlete_bulky';
+		position:relative;
+		top:-18px;
+		left:80px;
+		transform: rotate(-12deg);
+		-ms-transform: rotate(-12deg); /* IE 9 */
+		-webkit-transform: rotate(-12deg); /* Safari and Chrome */
+	}
+	
+	#cg_circle_text {
+		position:relative;
+		top:-17px;
+	}
+
+	#page_one {
+		margin:auto;
+		height: 641px;  
+	    width: 100%; 
+	    width: 800px;	
+		padding:50px;
+		text-align:center;
+		color:#4d2b10;
+		
+	}
+	
+	#page_one h1{ 
+		font-size:225px;
+		font-family:'mathlete_skinny';
+		line-height:146px;
+		letter-spacing:-5px;
+		}
+		
+	#page_one h2{ 
+		font-size:67px;
+		font-family:'mathlete_bulky';
+		}
+		
+	#page_one h3{ 
+		font-size:55px;
+		font-family:'mathlete_skinny';
+		letter-spacing:-1px;
+		}
+
+	#page_one h4{ 
+		font-size:45px;
+		font-family:'mathlete_skinny';
+		letter-spacing:-1px;
+		line-height:43px;
+			}	
+			
+	#page_one h5{ 
+		font-size:27px;
+		font-family:'mathlete_skinny';
+			}	
+	#dd_tag{		
+			position: relative;
+			left: 448px;
+			top: 72px;
+			z-index:1000;		
+		}
+	#dd_presents {
+		width:156.25px;
+		height:50px;
+		margin:auto;
+		text-align:center;
+		position:relative;
+		top:-72px;
+		opacity:.4;
+	}
+
+
+	
+	.circle header {
+	position:relative;
+	top:-60px;
+	}	
+
+	.circle hr { 
+		width:50%;
+		height:2px;
+		border: none;
+		background-color:#fff;
+		margin-top:2px;
+		padding-top:0px;
+		margin-bottom:0px;
+		padding-bottom:0px;
+		margin:auto;
+	}
+	.circle h1 {
+		font-size:176.01px;
+		font-family:'mathlete_skinny';
+		line-height:113px;
+		font-weight:100;
+		margin-top: -10px; 
+		padding-top: 0px;
+		margin-bottom: 20px; 
+		padding-bottom: 0px;
+	}	
+
+	.circle h2 {
+		font-size:42.67px;
+		font-family: 'mathlete_skinny';
+		font-weight:100;
+		line-height:100%;
+		margin-top: 0px; 
+		padding-top: 0px;
+		margin-bottom: 0px; 
+		padding-bottom: 0px;
+	}
+
+	.circle h3 {
+		font-size:36px;
+		font-family: 'mathlete_skinny';
+		font-weight:100;
+		line-height:100%;
+		margin-top: 0px; 
+		padding-top: 0px;
+		margin-bottom: 0px; 
+		padding-bottom: 0px;
+	}
+
+/* END Page 1- trees with circle and gear */
+
+/* Registration page with polaroid */
+
+	#polaroids {
+		position:relative;
+		top:241px;
+		width:1000px;
+		height:600px;
+		margin:auto;
+		text-align:center;
+	}
+	
+	#session1 {
+		position:relative;
+		top:6px;
+		left:31px;
+	}
+	
+	#session2 {
+		position:relative;
+		top:81px;
+		left:31px;
+	}
+	
+	#session3 {
+		position:relative;
+		top:5px;
+		left:20px;
+	}
+	
+	#registration_text {
+		position: relative;
+		top: 80px;
+		font-size: 22px;
+		font-family:'arvo';
+		line-height: 30px;
+	}
+	
+	#registration_text h2 {
+		font-size:38px;
+		color:rgb(196, 47, 47);
+		font-family:'arvo';
+		padding-bottom:8px;
+	}
+	
+
+/*	
+	#reg_hr {
+		width:200px;
+		border-style:solid;
+		border-width:1px;
+		color:gray;
+		font-color:gray;
+		background-color:gray;
+		margin:auto;
+		text-align:center;
+		margin-bottom:5px;
+	}
+*/	
+
+
+/* END Registration page */
+
+
+/* Leather Page - About Camp Grounded */
+
+	#About_section_2 {
+	padding-top:68px;	
+	margin:auto;
+	text-align:center;
+	height:500px;
+	
+	}
+	
+	#about_camp {
+		color:#fff;
+		padding-top:40px;
+		font-family: 'Roboto', sans-serif;
+		font-weight:100;
+		width:800px;
+		margin:auto;
+	}
+	
+	#about_camp p{
+		font-size:22px;
+		font-family: 'Roboto', sans-serif;
+		font-weight:400;
+		line-height:26px;
+	}
+	
+	#about_camp a{
+			font-size:22px;
+			font-family: 'Roboto', sans-serif;
+			font-weight:400;
+			line-height:25px;
+			color:#fff;
+	}
+	
+	#about_camp a:hover{
+			font-size:22px;
+			font-family: 'Roboto', sans-serif;
+			font-weight:700;
+			line-height:25px;
+			color:#444;
+	}
+	
+
+/* END Page 2 - About Camp Grounded */
+
+/* Page 3 - Activities */
+
+#about_activites {
+	height:800px;
+	position:relative;
+	top:170px;
+}
+
+#activities{
+	position:relative;
+	top:130px;
+	text-align:center;
+	color:white;
+}
+
+#activities h2{
+	font-family: 'Bevan', cursive;
+	font-weight:100;
+	font-size:58px;
+	text-shadow: 1px 1px 4px #000;
+	
+}
+
+#list{
+	font-family: 'roboto';
+	font-weight: 400;
+	line-height: 56px;
+	font-size: 24px;
+	margin-top: 30px;
+	text-shadow: 1px 1px 3px #000, 0px 0px 1px #000;
+}
+
+/* END - Activities */
+
+/* CONTACT SECTION w/ POSTCARD AND TYPEWRITERS START */
+
+#contact_section {
+		background: url(http://benhanna.s3.amazonaws.com/cg2014/images/contact_section/contact_background_2014_1.jpg) 50% 0 no-repeat ; 
+		background-position:center; 
+		height: 793px;  
+		margin: 0 auto; 
+	    width: 100%; 
+	 	max-width:1600px;
+		min-width:1000px;
+	}
+	
+	#postcard {
+		position: relative;
+		top: 65px;
+		background: url(http://benhanna.s3.amazonaws.com/cg2014/images/contact_section/postcards_arrow_down_2014.png) 50% 0 no-repeat ; 
+		background-position:center; 
+		height: 671px;  
+		margin: 0 auto; 
+		width:871px;
+	}
+	
+	#updates_newsletter {
+	border-width:1px;
+	width:420px;
+	height:455px;
+	position: relative;
+	top:135px;
+	left:45px;
+	}
+
+	#contact_us {
+		width: 370px;
+		height: 408px;
+		position: relative;
+		top: -234px;
+		left:481px;
+		text-align: center;
+		line-height: 40px;
+	}
+
+	#contact_us h2{ 
+		font-family:'newspaper_type';
+		font-size:40px;	
+		letter-spacing:-1px;
+		}
+		
+	#contact_us p {
+		text-align: center;
+		font-family: 'mathlete_bulky';
+		color: #000;
+		font-size: 28px;
+		position: relative;
+		top: -25px;
+		letter-spacing: 1px;
+		line-height: 33px;
+	}
+	
+	#press_sponsors {
+			text-align: center;
+			font-family: 'mathlete_bulky';
+			color: #000;
+			font-size: 18px;
+			position: relative;
+			top: 0px;
+			letter-spacing: 1px;
+			line-height:75px;
+	}
+	
+
+/*END ONTACT SECTION w/ POSTCARD AND TYPEWRITERS*/
+
+
+/* Page 4 - Letter */
+
+
+#div_around_yellow {
+	margin-top:22px;
+}
+#subtext {
+	margin-top:8px;
+	position:relative;
+	top:-15px;
+}
+
+
+
+#second_signup {
+	margin:auto;
+	width:500px;
+	position:relative;
+	top:100px;
+	left:-150px;
+}
+
+/*
+.register_button {
+	background:rgba(245, 197, 42, 0.86);
+	border-radius:24px;
+	width:400px;
+	margin:auto;
+	color:#fff;
+	text-decoration:none;
+	font-family: 'mathlete_skinny';
+	font-size:95px;
+	font-weight:100;
+	margin-top:0;
+	margin-bottom:-10px;
+	position:relative;
+	top:-11px;
+	
+}
+
+.register_button a {
+		color:#fff;
+}
+
+
+#on_letter a:hover {
+	color:#fff;
+	text-decoration:none;
+	font-family: 'mathlete_bulky';
+	font-weight:400;
+}
+
+*/
+
+#on_letter p{
+	text-align:center;
+	position:relative;
+	font-family: 'delius';
+	font-size:20px;
+	line-height:26px;
+	color:#cc6666;
+}
+
+
+#return_address {
+	position:relative;
+	font-family: 'delius';
+	font-size:20px;
+	line-height:30px;
+	text-align: left;
+	width:230px;
+	height:100px;
+	position:relative;
+	left:95px;
+	color:red;
+	font-weight:700;
+	top:-351px;
+	
+}
+
+/* END Page 4 - Letter */
+
+/* Page 4.5 - Newsletter and Contact */
+
+#newsletter_background {
+	max-width:1600px;
+	
+}
+
+#newsletter {
+	position:relative;
+	top:-100px;
+	text-align:center;
+	margin:auto;
+	height:600px;
+	min-width:1000px;
+	max-width:1600px;
+	background: -moz-linear-gradient(top,  rgba(245,197,42,0.86) 0%, rgba(245,197,42,1) 10%, rgba(245,197,42,1) 50%, rgba(245,197,42,1) 90%, rgba(245,197,42,0.86) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(245,197,42,0.86)), color-stop(10%,rgba(245,197,42,1)), color-stop(50%,rgba(245,197,42,1)), color-stop(90%,rgba(245,197,42,1)), color-stop(100%,rgba(245,197,42,0.86))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(245,197,42,0.86) 0%,rgba(245,197,42,1) 10%,rgba(245,197,42,1) 50%,rgba(245,197,42,1) 90%,rgba(245,197,42,0.86) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(245,197,42,0.86) 0%,rgba(245,197,42,1) 10%,rgba(245,197,42,1) 50%,rgba(245,197,42,1) 90%,rgba(245,197,42,0.86) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(245,197,42,0.86) 0%,rgba(245,197,42,1) 10%,rgba(245,197,42,1) 50%,rgba(245,197,42,1) 90%,rgba(245,197,42,0.86) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(245,197,42,0.86) 0%,rgba(245,197,42,1) 10%,rgba(245,197,42,1) 50%,rgba(245,197,42,1) 90%,rgba(245,197,42,0.86) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbf5c52a', endColorstr='#dbf5c52a',GradientType=0 ); /* IE6-9 */
+	-webkit-box-shadow: 0px 0px 10px 2px ;
+	box-shadow: 0px 0px 10px 2px ;
+	z-index:10;
+}
+
+
+#newsletter h2{
+	padding-top:50px;
+	padding-bottom:50px;
+	font-family: 'mathlete_skinny';
+	font-weight:100;
+	font-size:75px;
+	color:#fff;
+}
+
+
+#two_forms {
+	width:800px;
+	margin:auto;
+}
+
+#lets_talk p {
+	text-align:center;
+	font-family: 'mathlete_skinny';
+	color:#000;
+	width:350px;
+	font-size:30px;
+	color:#000;
+	position:relative;
+	
+}
+
+#lets_talk .button {clear:both; font-family:'helvetica'; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#lets_talk .button:hover {background-color:#777;}
+
+#mc_embed_signup{
+	background:#fff; 
+	color:#000;
+	clear:left; 
+	font-family:'mathlete_skinny';
+	width:350px; 
+	margin-left:20px;
+	float:left;
+	}
+	
+#mc_embed_signup label {
+	font-size:16px;
+}
+
+#halfer {
+	height: 6px;
+	font-size:8px;
+}
+
+
+#mc_embed_signup form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%}
+#mc_embed_signup h3 {padding: 0;
+text-align: center;
+margin: 0px 0;
+font-size: 40px;
+font-family: 'font-family:'newspaper_type';';
+line-height: 40px;
+color: rgb(211, 23, 15);
+}
+#mc_embed_signup h4 {padding:0; text-align:center; margin:0px 0; font-size:18px; font-family:'newspaper_type';; line-height:18px}
+#mc_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+#mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
+#mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
+#mc_embed_signup input:focus {border-color:#333;}
+#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#mc_embed_signup .button:hover {background-color:#777;}
+#mc_embed_signup .small-meta {font-size: 11px;}
+#mc_embed_signup .nowrap {white-space:nowrap;}
+
+#mc_embed_signup .mc-field-group {clear:left; position:relative; width:96%; padding-bottom:3%; min-height:50px;}
+#mc_embed_signup .size1of2 {clear:none; float:left; display:inline-block; width:46%; margin-right:4%;}
+* html #mc_embed_signup .size1of2 {margin-right:2%; /* Fix for IE6 double margins. */}
+#mc_embed_signup .mc-field-group label {display:block; margin-bottom:3px; font-size:26px}
+#mc_embed_signup .mc-field-group input {display:block; width:100%; padding:8px 0; text-indent:2%;}
+#mc_embed_signup .mc-field-group select {display:inline-block; width:99%; padding:5px 0; margin-bottom:2px;}
+
+#mc_embed_signup .datefield, #mc_embed_signup .phonefield-us{padding:5px 0;}
+#mc_embed_signup .datefield input, #mc_embed_signup .phonefield-us input{display:inline; width:60px; margin:0 2px; letter-spacing:1px; text-align:center; padding:5px 0 2px 0;}
+#mc_embed_signup .phonefield-us .phonearea input, #mc_embed_signup .phonefield-us .phonedetail1 input{width:40px;}
+#mc_embed_signup .datefield .monthfield input, #mc_embed_signup .datefield .dayfield input{width:30px;}
+#mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label{display:none;}
+
+#mc_embed_signup .indicates-required {text-align:right; font-size:20px; margin-right:4%;margin-bottom:-24px; margin-top:4px;}
+#mc_embed_signup .asterisk {color:#c60; font-size:200%;}
+#mc_embed_signup .mc-field-group .asterisk {position:absolute; top:25px; right:10px;}        
+#mc_embed_signup .clear {clear:both;}
+
+#mc_embed_signup .mc-field-group.input-group ul {margin:0; padding:5px 0; list-style:none;}
+#mc_embed_signup .mc-field-group.input-group ul li {display:block; padding:3px 0; margin:0;}
+#mc_embed_signup .mc-field-group.input-group label {display:inline;}
+#mc_embed_signup .mc-field-group.input-group input {display:inline; width:auto; border:none;}
+
+#mc_embed_signup div#mce-responses {float:left; font-size:20px; margin-bottom:0; margin-top:-25px; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup div.response {margin:1em 0;font-size:20p; margin-top:-25px; padding:1em .5em .5em 0; float:left; top:-1.8em; z-index:1; width:80%;margin-bottom:0;}
+#mc_embed_signup #mce-error-response {font-size:20px; margin-top:-25px; display:none;margin-bottom:0;}
+#mc_embed_signup #mce-success-response {font-size:20px; color:#529214;font-size:18p; margin-top:-25px; display:none;margin-bottom:0;}
+#mc_embed_signup label.error {font-size:20px;display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;margin-bottom:0;}
+
+#mc-embedded-subscribe {clear:both; width:auto; display:block; margin:1em 0 1em 5%;}
+#mc_embed_signup #num-subscribers {font-size:1.1em;}
+#mc_embed_signup #num-subscribers span {padding:.5em; border:1px solid #ccc;
+ margin-right:.5em;}
+
+
+
+#mc_embed_signup1{
+	clear:left; 
+	font-family:'mathlete_skinny';
+	width:350px; 
+	position:relative;
+	top:-10px;
+	left:240px;
+	}
+
+#mc_embed_signup1 label {
+	font-size:16px;
+}
+
+
+#mc_embed_signup1 form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%;}
+#mc_embed_signup1 h3 {padding:0; text-align:center; margin:0px 0; font-size:35px; font-family: 'mathlete_bulky';}
+#mc_embed_signup1 input {border:1px solid #999; -webkit-appearance:none;}
+#mc_embed_signup1 input[type=checkbox]{-webkit-appearance:checkbox;}
+#mc_embed_signup1 input[type=radio]{-webkit-appearance:radio;}
+#mc_embed_signup1 input:focus {border-color:#333;}
+#mc_embed_signup1 .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#mc_embed_signup1 .button:hover {background-color:#777;}
+#mc_embed_signup1 .small-meta {font-size: 11px;}
+#mc_embed_signup1 .nowrap {white-space:nowrap;}
+
+#mc_embed_signup1 .mc-field-group {clear:left; position:relative; width:96%; padding-bottom:3%; min-height:50px;left:-188px}
+
+#mc_embed_signup1 .mc-field-group1 {position:relative; width:96%; padding-bottom:3%; min-height:50px;left:170px; top:-76px}
+
+#mc_embed_signup1 .size1of2 {clear:none; float:left; display:inline-block; width:46%; margin-right:4%;}
+* html #mc_embed_signup1 .size1of2 {margin-right:2%; /* Fix for IE6 double margins. */}
+#mc_embed_signup1 .mc-field-group label {display:block; margin-bottom:3px; font-size:26px}
+#mc_embed_signup1 .mc-field-group input {display:block; width:100%; padding:8px 0; text-indent:2%;}
+#mc_embed_signup1 .mc-field-group select {display:inline-block; width:99%; padding:5px 0; margin-bottom:2px;}
+
+#mc_embed_signup1 .mc-field-group1 label {display:block; margin-bottom:3px; font-size:26px}
+#mc_embed_signup1 .mc-field-group1 input {display:block; width:100%; padding:8px 0; text-indent:2%;}
+#mc_embed_signup1 .mc-field-group1 select {display:inline-block; width:99%; padding:5px 0; margin-bottom:2px;}
+
+#mc_embed_signup1 .datefield, #mc_embed_signup1 .phonefield-us{padding:5px 0;}
+#mc_embed_signup1 .datefield input, #mc_embed_signup1 .phonefield-us input{display:inline; width:60px; margin:0 2px; letter-spacing:1px; text-align:center; padding:5px 0 2px 0;}
+#mc_embed_signup1 .phonefield-us .phonearea input, #mc_embed_signup1 .phonefield-us .phonedetail1 input{width:40px;}
+#mc_embed_signup1 .datefield .monthfield input, #mc_embed_signup1 .datefield .dayfield input{width:30px;}
+#mc_embed_signup1 .datefield label, #mc_embed_signup1 .phonefield-us label{display:none;}
+
+#mc_embed_signup1 .indicates-required {text-align:right; font-size:20px; margin-right:4%;margin-bottom:-24px; margin-top:4px; position:relative; left:-300px;}
+#mc_embed_signup1 .asterisk {color:#c60; font-size:200%;}
+#mc_embed_signup1 .mc-field-group .asterisk {position:absolute; top:25px; right:10px;}        
+#mc_embed_signup1 .clear {clear:both;}
+
+#mc_embed_signup1 .mc-field-group.input-group ul {margin:0; padding:5px 0; list-style:none;}
+#mc_embed_signup1 .mc-field-group.input-group ul li {display:block; padding:3px 0; margin:0;}
+#mc_embed_signup1 .mc-field-group.input-group label {display:inline;}
+#mc_embed_signup1 .mc-field-group.input-group input {display:inline; width:auto; border:none;}
+
+#mc_embed_signup1 div#mce-responses1 {float:left; font-size:20px; margin-bottom:0; margin-top:-25px; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup1 div.response {margin:1em 0;font-size:20p; margin-top:-25px; padding:1em .5em .5em 0; float:left; top:-1.8em; z-index:1; width:80%;margin-bottom:0;}
+#mc_embed_signup1 #mce-error-response1 {font-size:20px; margin-top:-25px; display:none;margin-bottom:0;}
+#mc_embed_signup1 #mce-success-response1 {font-size:20px; color:#529214;font-size:18p; margin-top:-25px; display:none;margin-bottom:0;}
+#mc_embed_signup1 label.error {font-size:20px;display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;margin-bottom:0;}
+
+#mc-embedded-subscribe1 {clear:both; width:auto; display:block; margin:1em 0 1em 5%;position:relative;top:-70px;left:100px;}
+#mc_embed_signup1 #num-subscribers1 {font-size:1.1em;}
+#mc_embed_signup1 #num-subscribers1 span {padding:.5em; border:1px solid #ccc;
+ margin-right:.5em;}
+
+/* END Page 4.5 - Newsletter */
+
+/* Page 5 - Wood */
+
+#whats_included {
+	height:900px;
+	width:100%;
+	position:relative;
+	top:100px;
+	z-index:11;
+}
+
+#corkboard {
+	margin:auto;
+    width: 957px;
+	height:636px;
+	padding-top:180px;
+	text-align:center;
+	color:#000;
+	font-family: 'Delius', cursive;
+	font-weight:100;
+}
+
+#on_paper {
+	position:relative;
+	left:110px;
+	top:70px;
+	font-weight:100;
+}
+
+#inclusive {
+	font-weight:100;
+	font-size:16px;
+	line-height:16px;
+}
+
+#second_half {
+	margin-top:5px;
+	font-weight:100;
+	font-size:14px;
+}
+
+#on_paper h2{
+	font-size:32px;
+	font-weight:100;
+	margin-bottom:20px;
+	line-height:30px;
+}
+
+#on_paper h3{
+	font-size:20px;
+	line-height:26px;
+}
+
+
+/* END Page 5 - Wood */
+
+/* Page 6 - Desk & paper */
+
+#desk {
+	position:relative;
+	top:50px;
+	width:100%;
+	height:920px;
+}
+
+#navarro {
+	margin:auto;
+	text-align:center;
+	position:relative;
+	left:120px;
+	top:16px;
+}
+
+#writing_on_paper {
+	width:500px;
+	height:670px;
+	margin:auto;
+	position:relative;
+	top:181px;
+}
+
+#writing_on_paper_text {
+	position:relative;
+	top:28px;
+	left:5px;
+	line-height:28px;
+}
+
+#coffee_stained {
+	font-family: 'Annie Use Your Telescope', cursive;
+	position:relative;
+	width:500px;
+	color:#000;
+	margin:auto;
+	top:50px;
+}
+
+#coffee_stained h2 {
+	font-size:30px;
+	font-weight:100;
+	position:relative;
+	left:75px;
+}
+
+#writing_on_paper p {
+	position:relative;
+	font-size:25.4px;
+	
+}
+
+/* END Page 6 - Desk & paper */
+
+/* Page 7 - Disclaimer */
+
+#disclaimer {
+	width:800px;
+	height:460px;
+	margin:auto;
+	position:relative;
+	top:90px;
+	text-align:center;
+	color:#fff;
+/*	border-color:yellow;
+	border-style:solid;
+	border-width:1px; */
+	
+}
+
+#disclaimer_text {
+	color:#fff;
+	position:relative;
+	top:105px;
+}
+
+#disclaimer_text h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size:30px;
+	line-height:34px;
+
+	
+}
+
+#disclaimer_text h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size:25px;
+
+}
+
+#disclaimer_text p {
+	font-family: 'Arvo', serif;
+	font-size: 16px;
+	line-height:19px;
+	
+}
+
+/* END Page 7 - Disclaimer */
+
+/* Bottom Nav */
+
+#bottom_nav {
+	position:relative;
+	top:-100px;
+	background:#7E2E26;
+	height:50px;
+	max-width:1600px;
+	min-width:1000px;
+	-webkit-box-shadow: 0px 0px 4px 0px #2E2E2E;
+	box-shadow: 0px 0px 4px 0px #2E2E2E;
+	z-index:20;
+	font-family: 'mathlete_skinny';
+	font-weight:400px;
+	font-size:35px;
+	text-align:center;
+}
+
+#bottom_nav a {
+		color:#fff;
+		text-decoration:none;
+}
+
+#bottom_nav a:hover {
+		color:#fff;
+		font-family: 'mathlete_bulky';
+} 
+
+#bottom_nav ul, li {
+	display:inline;	 
+	margin-left: 0;
+	
+}
+
+/* Bottom Nav */
+
+/*FOOTER */
+
+#footer {
+	max-width:1600px;
+	min-width:1000px;
+	height:357px;
+	background-color:#202020;
+	color:#fff;
+	text-align:center;
+	margin:auto;
+	position:relative;
+	top:-112px;
+}
+
+#icons {
+	width:800px;
+	margin:auto;
+	padding-top:30px;
+}
+
+.icon {
+	width:32px;
+	height:32px;
+	margin-right:15px;
+	margin-left:15px;
+}
+
+#digital_detox {
+	font-family: 'mathlete_bulky';
+	font-weight:400px;
+	font-size:35px;
+	width:800px;
+	margin:auto;
+	padding-top:50px;
+	
+	
+}
+
+#contact_bottom {
+	padding-top:20px;
+	font-family: 'mathlete_skinny', cursive;
+	letter-spacing:2px;
+	font-size:20px;
+	width:800px;
+	margin:auto;
+}
+#contact_bottom a{
+	text-decoration:none;
+}
+
+#credits {
+	font-family: 'Roboto', sans-serif;
+	width:800px;
+	padding-top:30px;
+	margin:auto;
+	font-size: 14px;
+}
+
+#zevfelix {
+	font-family: 'Roboto', sans-serif;
+	width:800px;
+	padding-top:30px;
+	margin:auto;
+	font-size:18px;
+}
+
+#contact {
+	width:500px;
+	height:200px;
+}
+
+
+#arrow1 {
+
+position:relative;
+top:29px;
+left:748px;
+
+}
+
+.ribbon {
+	position:fixed;
+	float:right;
+	right:-141px;
+	top:12px;
+	z-index:10000;
+	font-family: 'mathlete_bulky', serif;
+	font-size: 28px;
+	line-height:28px;
+	color:#E3B811;
+	background-color:rgba(126, 46 , 39,.9);
+	width:420px;
+	padding-top:10px;
+	padding-bottom:20px;
+	text-align:center;
+	transform:rotate(30deg);
+	-ms-transform:rotate(30deg); /* IE 9 */
+	-moz-transform:rotate(30deg); /* Firefox */
+	-webkit-transform:rotate(30deg); /* Safari and Chrome */
+	-o-transform:rotate(30deg); /* Opera */
+	-webkit-box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, .6);
+	box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, .6);
+}
+
+.ribbon h2 {
+	font-size:40px;
+}
+
+#regnowwhite {
+	color:white;
+}
+
+a.ribbon {
+		color:#E3B811 !important;
+		text-decoration:none;
+} 
+
+a.ribbon:hover {
+	background-color:rgba(154, 62 , 53,.9);
+	color:#f4ce47  !important;
+}
+
+#reg_ribbon {
+	float:right;
+		right:0px;
+		top:-200;
+}
+
+#bottom_reg {
+	color: #E3B811 !important;
+}
+
+
+#dates_included {
+	position:relative;
+	top:-367px;
+	left:-247px;
+	transform:rotate(-20deg);
+	-ms-transform:rotate(-20deg); /* Internet Explorer */
+	-moz-transform:rotate(-20deg); /* Firefox */
+	-webkit-transform:rotate(-20deg); /* Safari and Chrome */
+	-o-transform:rotate(-20deg); /* Opera */
+}
+
+
+#image_slider {
+	background: url(http://benhanna.s3.amazonaws.com/cg2014/images/film_pics_2014.jpg) 50% 0 no-repeat ; 
+	background-position:center;
+	margin: auto; 
+    width: 100%; 
+ 	max-width:1600px;
+	min-width:1000px;
+	text-align:center;
+	-webkit-box-shadow: 6px 4px 6px rgba(0, 0, 0, .4);
+	box-shadow: 6px 4px 6px rgba(0, 0, 0, .4);
+	z-index:10;
+}
+
+#image_slider h2 {
+	font-family:'mathlete_bulky';
+	font-size:80px;
+	color:white;
+	text-shadow: 1px 1px 30px #000000;
+	filter: dropshadow(color=#000000, offx=1, offy=1);
+	background-color:rgba(42, 38, 38, 0.6);
+	padding-top:10px;
+}
+
+#currently {
+	position:relative;
+	top:-80px;
+	left:290px;
+	transform:rotate(-7deg);
+	-ms-transform:rotate(-7deg); /* IE 9 */
+	-webkit-transform:rotate(-7deg); /* Safari and Chrome */
+}
+
+/**
+ * HTML5 ✰ Boilerplate
+ *
+ * style.css contains a reset, font normalization and some base styles.
+ *
+ * Credit is left where credit is due.
+ * Much inspiration was taken from these projects:
+ * - yui.yahooapis.com/2.8.1/build/base/base.css
+ * - camendesign.com/design/
+ * - praegnanz.de/weblog/htmlcssjs-kickstart
+ */
+
+
+/**
+ * html5doctor.com Reset Stylesheet (Eric Meyer's Reset Reloaded + HTML5 baseline)
+ * v1.6.1 2010-09-17 | Authors: Eric Meyer & Richard Clark
+ * html5doctor.com/html-5-reset-stylesheet/
+ */
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+blockquote, q { quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after { content: ""; content: none; }
+
+ins { background-color: #ff9; color: #000; text-decoration: none; }
+
+mark { background-color: #ff9; color: #000; font-style: italic; font-weight: bold; }
+
+del { text-decoration: line-through; }
+
+abbr[title], dfn[title] { border-bottom: 1px dotted; cursor: help; }
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+input, select { vertical-align: middle; }
+
+
+/**
+ * Font normalization inspired by YUI Library's fonts.css: developer.yahoo.com/yui/
+ */
+
+body { font:13px/1.231 sans-serif; *font-size:small; } /* Hack retained to preserve specificity */
+select, input, textarea, button { font:99% sans-serif; }
+
+/* Normalize monospace sizing:
+   en.wikipedia.org/wiki/MediaWiki_talk:Common.css/Archive_11#Teletype_style_fix_for_Chrome */
+pre, code, kbd, samp { font-family: monospace, sans-serif; }
+
+
+/**
+ * Minimal base styles.
+ */
+
+/* Always force a scrollbar in non-IE */
+html { overflow-y: scroll; }
+
+/* Accessible focus treatment: people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active { outline: none; }
+
+ul, ol { margin-left: 2em; }
+ol { list-style-type: decimal; }
+
+/* Remove margins for navigation lists */
+nav ul, nav li { margin: 0; list-style:none; list-style-image: none; }
+
+small { font-size: 85%; }
+strong, th { font-weight: bold; }
+
+td { vertical-align: top; }
+
+/* Set sub, sup without affecting line-height: gist.github.com/413930 */
+sub, sup { font-size: 75%; line-height: 0; position: relative; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+pre {
+  /* www.pathf.com/blogs/2008/05/formatting-quoted-code-in-blog-posts-css21-white-space-pre-wrap/ */
+  white-space: pre; white-space: pre-wrap; word-wrap: break-word;
+  padding: 15px;
+}
+
+textarea { overflow: auto; } /* www.sitepoint.com/blogs/2010/08/20/ie-remove-textarea-scrollbars/ */
+
+.ie6 legend, .ie7 legend { margin-left: -7px; } 
+
+/* Align checkboxes, radios, text inputs with their label by: Thierry Koblentz tjkdesign.com/ez-css/css/base.css  */
+input[type="radio"] { vertical-align: text-bottom; }
+input[type="checkbox"] { vertical-align: bottom; }
+.ie7 input[type="checkbox"] { vertical-align: baseline; }
+.ie6 input { vertical-align: text-bottom; }
+
+/* Hand cursor on clickable input elements */
+label, input[type="button"], input[type="submit"], input[type="image"], button { cursor: pointer; }
+
+/* Webkit browsers add a 2px margin outside the chrome of form elements */
+button, input, select, textarea { margin: 0; }
+
+/* Colors for form validity */
+input:valid, textarea:valid   {  }
+input:invalid, textarea:invalid {
+   border-radius: 1px; -moz-box-shadow: 0px 0px 5px red; -webkit-box-shadow: 0px 0px 5px red; box-shadow: 0px 0px 5px red;
+}
+.no-boxshadow input:invalid, .no-boxshadow textarea:invalid { background-color: #f0dddd; }
+
+
+/* These selection declarations have to be separate
+   No text-shadow: twitter.com/miketaylr/status/12228805301
+   Also: hot pink! */
+::-moz-selection{ background: #FF5E99; color:#fff; text-shadow: none; }
+::selection { background:#FF5E99; color:#fff; text-shadow: none; }
+
+/* j.mp/webkit-tap-highlight-color */
+a:link { -webkit-tap-highlight-color: #FF5E99; }
+
+/* Make buttons play nice in IE:
+   www.viget.com/inspire/styling-the-button-element-in-internet-explorer/ */
+button {  width: auto; overflow: visible; }
+
+/* Bicubic resizing for non-native sized IMG:
+   code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/ */
+.ie7 img { -ms-interpolation-mode: bicubic; }
+
+/**
+ * You might tweak these..
+ */
+
+body, select, input, textarea {
+  /* #444 looks better than black: twitter.com/H_FJ/statuses/11800719859 */
+  color: #444;
+  /* Set your base font here, to apply evenly */
+  /* font-family: Georgia, serif;  */
+}
+
+/* Headers (h1, h2, etc) have no default font-size or margin; define those yourself */
+
+/* h1, h2, h3, h4, h5, h6 { font-weight: bold; } */
+
+a, a:active, a:visited { color: #607890; }
+a:hover { color: #036; }
+
+
+/**
+ * Primary styles
+ *
+ * Author: 
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Non-semantic helper classes: please define your styles before this section.
+ */
+
+/* For image replacement */
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+
+/* Hide for both screenreaders and browsers:
+   css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden { display: none; visibility: hidden; }
+
+/* Hide only visually, but have it available for screenreaders: by Jon Neal.
+  www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden */
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: drupal.org/node/897638 */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible { visibility: hidden; }
+
+/* The Magnificent Clearfix: Updated to prevent margin-collapsing on child elements.
+   j.mp/bestclearfix */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+/* Fix clearfix: blueprintcss.lighthouseapp.com/projects/15318/tickets/5-extra-margin-padding-bottom-of-page */
+.clearfix { zoom: 1; }
+
+
+
+/**
+ * Media queries for responsive design.
+ *
+ * These follow after primary styles so they will successfully override.
+ */
+
+@media all and (orientation:portrait) {
+  /* Style adjustments for portrait mode goes here */
+
+}
+
+@media all and (orientation:landscape) {
+  /* Style adjustments for landscape mode goes here */
+
+}
+
+/* Grade-A Mobile Browsers (Opera Mobile, Mobile Safari, Android Chrome)
+   consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
+@media screen and (max-device-width: 480px) {
+
+
+  /* Uncomment if you don't want iOS and WinMobile to mobile-optimize the text for you: j.mp/textsizeadjust */
+  /* html { -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } */
+}
+
+
+/**
+ * Print styles.
+ *
+ * Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+ */
+@media print {
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important;
+  -ms-filter: none !important; } /* Black prints faster: sanbeiji.com/archives/953 */
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img { page-break-inside: avoid; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+}
+
+
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+
+.clr {
+	clear: both;
+	float: none;
+}
+
+.main {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin: 0 auto;
+	position: relative;
+	background-color: rgba(42, 38, 38, 0.6);
+	height:630px;
+}
+
+
+
+.js .fixed-bar {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+}
+
+.js .gallery {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	position: relative;
+	background: url(../images/slider/film_big.png);
+	box-shadow:0px 0px 31px 0px rgba(255, 255, 255, 0.3),0px 0px 30px 8px rgba(17, 9, 9, .6);
+}
+
+.lt-ie8 .elastislide-list {
+	display: none;
+}
+
+/* Elastislide Style */
+
+.elastislide-list {
+	list-style-type: none;
+	display: none;
+}
+
+.no-js .elastislide-list {
+	display: block;
+}
+
+.elastislide-carousel ul li {
+	min-width: 20px; /* minimum width of the image (min width + border) */
+}
+
+.elastislide-wrapper {
+	position: relative;
+	background-color: #fff;
+	margin: 0 auto;
+	min-height: 60px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+}
+
+.elastislide-wrapper.elastislide-loading {
+	background-image: url(http://benhanna.s3.amazonaws.com/cg2014/images/loading.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.elastislide-horizontal {
+	padding: 10px 40px;
+}
+
+.elastislide-vertical {
+	padding: 40px 10px;
+}
+
+.elastislide-carousel {
+	overflow: hidden;
+	position: relative;
+	top:8px;
+	padding-bottom:12px;
+}
+
+.elastislide-carousel ul {
+	position: relative;
+	display: block;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	-webkit-backface-visibility: hidden;
+	-webkit-transform: translateX(0px);
+	-moz-transform: translateX(0px);
+	-ms-transform: translateX(0px);
+	-o-transform: translateX(0px);
+	transform: translateX(0px);
+}
+
+.elastislide-horizontal ul {
+	white-space: nowrap;
+}
+
+.elastislide-carousel ul li {
+	margin: 0;
+	-webkit-backface-visibility: hidden;
+}
+
+.elastislide-horizontal ul li {
+	height: 100%;
+	display: inline-block;
+}
+
+.elastislide-vertical ul li {
+	display: block;
+}
+
+.elastislide-carousel ul li a {
+	display: inline-block;
+	width: 100%;
+}
+
+.elastislide-carousel ul li a img {
+	display: block;
+	border: 2px solid white;
+	max-width: 100%;
+}
+
+/* Navigation Arrows */
+
+.elastislide-wrapper nav span {
+	position: absolute;
+	background: #ddd url(http://benhanna.s3.amazonaws.com/cg2014/images/nav_2014.png) no-repeat 4px 3px;
+	width: 23px;
+	height: 23px;
+	border-radius: 50%;
+	text-indent: -9000px;
+	cursor: pointer;
+	opacity: 0.8;
+}
+
+.elastislide-wrapper nav span:hover {
+	opacity: 1.0
+}
+
+.elastislide-horizontal nav span {
+	top: 50%;
+	left: 10px;
+	margin-top: -11px;
+}
+
+.elastislide-vertical nav span {
+	top: 10px;
+	left: 50%;
+	margin-left: -11px;
+	background-position: -17px 5px;
+}
+
+.elastislide-horizontal nav span.elastislide-next {
+	right: 10px;
+	left: auto;
+	background-position: 4px -17px;
+}
+
+.elastislide-vertical nav span.elastislide-next {
+	bottom: 10px;
+	top: auto;
+	background-position: -17px -18px;
+}
+/* Custom Elastislide Styling */
+
+.demo-3 .elastislide-horizontal {
+	background-color: #000;
+	padding: 30px 60px;
+}
+
+.no-touch .demo-3 .elastislide-horizontal {
+	opacity: 0.8;
+	-webkit-transition: opacity 0.3s ease-in-out;
+	-moz-transition: opacity 0.3s ease-in-out;
+	-ms-transition: opacity 0.3s ease-in-out;
+	-o-transition: opacity 0.3s ease-in-out;
+	transition: opacity 0.3s ease-in-out;
+}
+
+.no-touch .demo-3 .elastislide-horizontal:hover {
+	opacity: 1;
+}
+
+.demo-3 .elastislide-wrapper nav span {
+	background-color: #000;
+}
+
+.demo-3 .elastislide-carousel ul li a{
+	padding: 0 10px;
+}
+
+.demo-3 .elastislide-carousel ul li a img {
+	border-radius: 10px;
+	border: none;
+}
+
+.demo-4 .elastislide-horizontal {
+	background-color: transparent;
+	border-radius: 20px 20px 0 0;
+}
+
+.demo-3 .elastislide-horizontal.elastislide-loading,
+.demo-4 .elastislide-horizontal.elastislide-loading {
+	background-image: url(http://benhanna.s3.amazonaws.com/cg2014/images/loading_dark.gif);
+}
+
+.demo-4 .elastislide-carousel ul li a{
+	padding: 2px;
+}
+
+.demo-4 .elastislide-carousel ul li a img {
+	border-radius: 10px;
+	border: none;
+	box-shadow: 0 1px 2px #000;
+}
+
+.demo-4 .elastislide-wrapper nav span {
+	background-color: #666;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.2);
+}
+
+.demo-4 .image-preview img {
+
+	max-width: 100%;
+	display: block;
+}
+
+.demo-4 .elastislide-carousel ul li.current-img a img {
+	box-shadow: 0 0 3px 2px rgba(125, 126, 126, 0.8);
+}
+
+@media screen and (max-width: 460px) {
+	.demo-3 .elastislide-horizontal {
+		padding: 10px 40px;
+	}
+}
+
+
+/* END FOOTER */
