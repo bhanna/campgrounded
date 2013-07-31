@@ -1,0 +1,421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Tortoise/Dropbox/Clients/Digital Detox/2014 Camp Grounded SIte/css/webdev-css.css",
+		"/Users/ben/web/hgbusinesslaw/.git/MERGE_MSG",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/assets/css/bootstrap.css",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/bswp-docs.less",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/navbar.less",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/variables.less",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/assets/css/app.css",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/assets/css/less/type.less",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/type.less",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/page-full-width.php",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/html frames/faq.htm",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/header.php",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/bswp-overrides.less",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/assets/css/less/navbar.less",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/bswp-custom.less",
+		"/Users/ben/web/hglaw/.htaccess",
+		"/Users/ben/web/hglaw/.gitignore",
+		"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/css/less/bootstrapwp.less",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/base.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/index.php",
+		"/Users/ben/web/hglaw/wp-includes/theme-compat/footer.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/lib/scripts.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/header-top-navbar.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/what we do.html",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/lib/config.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/header.php",
+		"/Users/ben/web/hglaw/wp-content/plugins/memberpress/css/plan_templates/minimal_horizontal.css",
+		"/Users/ben/web/hglaw/wp-content/plugins/memberpress/app/helpers/MeprGroupsHelper.php",
+		"/Users/ben/web/hglaw/wp-content/plugins/memberpress/css/plans/minimal_chill_horizontal.css",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/home.html",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/faq.htm",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/howitworks.html",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/whoweare.html",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/templates/footer.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/template-custom.php",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/assets/css/less/variables.less",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/assets/css/plans.css",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/CHANGELOG.md",
+		"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0/.gitignore",
+		"/Users/ben/web/hglaw/wp-config.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/themes/html5blank-master/clip-internalsidebar.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/themes/html5blank-master/single.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/plugins/wordpress-bootstrap-css/resources/bootstrap-2.3.0/css/bootstrap-responsive.css",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/themes/html5blank-master/clip-recently.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/themes/html5blank-master/template-demo.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/themes/html5blank-master/footer.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-content/themes/html5blank-master/clip-blog.php",
+		"/Volumes/Tortoise/Dropbox/sites/silkandspice/wp-includes/default-filters.php",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/favicon.ico",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/clip-internalsidebar.php",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/google636c96c0e5526602.html",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/img/group.png",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/template-demo-backup.php",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/sftp-config.json",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/brb.php",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/img/mongol-rally.png",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/plugins/wordpress-bootstrap-css/resources/bootstrap-2.3.0/js/bootstrap.js",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/custom-style.css",
+		"/Volumes/Tortoise/Dropbox/Sites/silkandspice/wp-content/themes/html5blank-master/style.css",
+		"/Volumes/Tortoise/Dropbox/Sites/benhanna/wp-content/themes/melville/style.css",
+		"/Volumes/Tortoise/Dropbox/Sites/mongol ralley/wp-content/themes/twentytwelve/page.php",
+		"/Users/ben/Desktop/com.orchestra.v2.plist",
+		"/Volumes/Tortoise/Dropbox/Sites/benhanna/untitled"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/ben/web/hgbusinesslaw",
+			"",
+			"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021",
+			"/Users/ben/web/hglaw",
+			"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021",
+			"/Users/ben/web/hglaw/wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021inline",
+			"/Users/ben/web/hglaw/wp-content/themes/retlehs-roots-3dab3d0",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://campgrounded.org/images/",
+			"current-menu-parent",
+			"current-parent-item",
+			"current-menu-item",
+			"member-nav",
+			"small",
+			"current-menu-parent",
+			"breadcrumb",
+			"info",
+			"infoText",
+			"badge-info",
+			"li",
+			"current-menu-item",
+			".text-success",
+			".text-center",
+			"ul.inline",
+			".inline",
+			"inline",
+			"modal",
+			"register_nav_menus(",
+			".brand",
+			"page-header",
+			"sidebar-nav",
+			"min-height",
+			".active",
+			"current-menu-item",
+			"brand",
+			"page-header",
+			"banner",
+			"headerimg",
+			".page-header",
+			".service",
+			"googleapis",
+			"roots_main_class",
+			" \">",
+			"sidebar",
+			"span4",
+			"sidebar span4",
+			"sidebar",
+			"doverbey",
+			"@media",
+			"940",
+			"940px",
+			"containter",
+			"1170",
+			"container",
+			"progress",
+			"png",
+			"data-toggle=\"tab\"",
+			"</span>",
+			"i>",
+			"i",
+			"kilo",
+			"https://www.justgiving.com/donation/sponsor?process=1&queryId=cABhAGcAZQA9ADQANAA4ADUAMgA0ADEA",
+			"2s",
+			"bottom",
+			"h4",
+			"rounded",
+			"left",
+			"Easy Web Design",
+			"ga-",
+			"head",
+			"</body>",
+			"velvet",
+			"right",
+			"border-bottom",
+			"font-family: 'OFLSortsMillGoudyRegular', Georgia, serif;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://benhanna.s3.amazonaws.com/cg2014/images/",
+			"http://www.justgiving.com/mongol-rally-silk-and-spice/Donate",
+			"h3",
+			"font-family: \"merriweather\";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 137.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"wp-includes/pluggable.php"
+			],
+			[
+				"what",
+				"wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/html frames/what we do.html"
+			],
+			[
+				"mem",
+				"wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/member-menu.php"
+			],
+			[
+				"",
+				"wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/html frames/what we do.html"
+			],
+			[
+				"pluggab",
+				"wp-includes/pluggable.php"
+			],
+			[
+				"fo",
+				"wp-includes/theme-compat/footer.php"
+			],
+			[
+				"fun",
+				"wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/functions.php"
+			],
+			[
+				"page-fu",
+				"wp-content/themes/rachelbaker-bootstrapwp-Twitter-Bootstrap-for-WordPress-9bc2021/page-full-width.php"
+			],
+			[
+				"hom",
+				"wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/home.html"
+			],
+			[
+				"home",
+				"wp-content/themes/retlehs-roots-3dab3d0/templates/html frames/home.html"
+			],
+			[
+				"foo",
+				"wp-includes/theme-compat/footer.php"
+			],
+			[
+				"git",
+				"wp-content/themes/retlehs-roots-3dab3d0/.gitignore"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"wp-cong",
+				"wp-config.php"
+			],
+			[
+				"clip-d",
+				"wp-content/themes/html5blank-master/clip-donate.php"
+			],
+			[
+				"foot",
+				"wp-content/themes/wpdesigner5/footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}
