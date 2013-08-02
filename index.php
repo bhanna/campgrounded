@@ -1,1 +1,1 @@
-echo 'php_flag engine off' > .htaccess
+<?php echo file_get_contents('index.html'); ?>
